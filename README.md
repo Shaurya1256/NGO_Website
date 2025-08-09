@@ -9,7 +9,8 @@ The site is designed to be clean, responsive, and user-friendly, encouraging vis
 ---
 
 ## 📸 Preview
-![Website Screenshot](./screenshot.png)
+ <img width="1361" height="652" alt="image" src="https://github.com/user-attachments/assets/a73e86f2-9db1-4df3-8862-223cc062f243" />
+
 
 ---
 
@@ -46,4 +47,4 @@ Make sure you have the following installed:
    git clone https://github.com/your-username/hope-for-all.git
    cd hope-for-all
 
-<img width="1361" height="652" alt="image" src="https://github.com/user-attachments/assets/55e68fc4-261b-48e2-b9ab-da6f069924d5" />
+ 
